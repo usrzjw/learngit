@@ -1,0 +1,11 @@
+修改并提交
+
+	#查看git当前状态
+	git status
+
+	#再次提交
+	git add file
+	git commit -m "add distributed"
+
+	#再次查看状态
+	git status

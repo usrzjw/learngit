@@ -1,0 +1,15 @@
+创建仓库
+	mkdir folder
+	cd folder
+	pwd
+	
+	#将这个目录变成git可以管理的仓库
+	git init
+
+	#编写一个文件，例如test.txt(只支持utf8存储)
+	git add test.txt
+	
+	#提交到仓库，-m是提交说明
+	git commit -m "wrote notes"
+
+
